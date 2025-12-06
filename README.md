@@ -1,4 +1,4 @@
-![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)]<!-- 🔥 Animated Typing Header -->
+![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)<!-- 🔥 Animated Typing Header -->
 <p align="center">
   <a href="https://github.com/saiphanidhar11">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Sai+Phanidhar+P;Welcome+to+my+GitHub!&center=true&width=900&height=60&size=30&color=00A8FF">
@@ -12,10 +12,7 @@ performance in data-intensive applications. Recognized for driving innovation an
  AI-driven automation systems, and high-performance distributed architectures.
 </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saiphanidhar11&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
+<p><img align="right" alt="Coding" width="400"src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 ---
 
 ## 🔭 Currently Working On
