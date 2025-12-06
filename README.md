@@ -61,7 +61,7 @@ I enjoy building AI agents that automate the work I used to do manually 😄
 
 ---
 
-# 🛠️ Technical Skills (Organized Like Resume)
+# 🛠️ Technical Skills 
 
 ---
 
