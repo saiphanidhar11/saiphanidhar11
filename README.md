@@ -12,7 +12,7 @@ performance in data-intensive applications. Recognized for driving innovation an
  AI-driven automation systems, and high-performance distributed architectures.
 </h3>
 
-<p><img align="right" alt="Coding" width="400"src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 ---
 
 ## 🔭 Currently Working On
