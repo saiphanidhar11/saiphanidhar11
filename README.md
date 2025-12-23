@@ -23,11 +23,42 @@ performance in data-intensive applications. Recognized for driving innovation an
 ---
 
 ## 🌱 Currently Learning
-- Advanced LLM orchestration & agent workflows  
-- RAG systems & deterministic prompting  
-- Fine-tuning LLMs  
-- Distributed systems for AI workloads  
-- Cloud-native MLOps on GCP & Azure  
+
+Advanced LLM orchestration & agent workflows
+
+RAG systems & deterministic prompting
+
+Fine-tuning LLMs
+
+Distributed systems for AI workloads
+
+Cloud-native MLOps on GCP & Azure
+
+Building LLM-powered backend services using Java & Spring Boot
+
+AI agent integration with enterprise systems (REST APIs, microservices)
+
+Scalable microservices architecture for GenAI applications
+
+Vector databases & semantic search (Elasticsearch for hybrid search)
+
+Designing secure AI APIs (DMZ, auth, rate-limiting, secrets management)
+
+Prompt optimization & evaluation for production-grade AI systems
+
+CI/CD pipelines for AI + backend services (Jenkins, GitHub, SonarQube)
+
+Observability for AI systems (logging, tracing, monitoring AI workflows)
+
+Containerizing and deploying AI workloads using Docker & Kubernetes
+
+Cost optimization & performance tuning for LLM-based services
+
+Responsible AI practices: hallucination control, validation, guardrails
+
+Leveraging multi-LLM strategies (OpenAI, Azure OpenAI, Gemini, Anthropic)
+
+Backend-driven AI automation agents (browser automation, workflow agents)
 
 ---
 
